@@ -1,4 +1,4 @@
-FROM ruby:2.1.9
+FROM ruby:2.6.5
 MAINTAINER Timehop Infrastructure <infra@timehop.com>
 
 ############################
